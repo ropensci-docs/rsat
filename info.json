@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e064da3ed53cd1baff84dcfb050d9e788aff227d",
+    "author": "unai-perez <unai.perez@unavarra.es>",
+    "time": "2022-07-22 15:55:59",
+    "files": 8,
+    "merge": false,
+    "message": "update earth data url and ignore ssl for downloading modis images\n"
+  },
+  "repo": "https://github.com/ropensci/rsat",
+  "pkg": "rsat"
+}
