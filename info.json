@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0b5e00ff19843588890a8197e2f031cd84af9743",
+    "author": "unai-perez <unai.perez@unavarra.es>",
+    "time": "2024-01-25 12:53:17",
+    "files": 1,
+    "merge": false,
+    "message": "update\n"
+  },
+  "repo": "https://github.com/ropensci/rsat",
+  "pkg": "rsat"
+}
