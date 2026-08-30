@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "caa124fb9a9126bd0f1f43fe2e10eee3c17dafaa",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-07-01T09:31:22Z",
+    "files": 2,
+    "merge": false,
+    "message": "tm_scale_bar is now called tm_scalebar\n"
+  },
+  "repo": "https://github.com/ropensci/rsat",
+  "pkg": "rsat",
+  "time": "2026-08-30T08:16:43Z"
+}
